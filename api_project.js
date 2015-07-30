@@ -1,1 +1,1 @@
-define({  "name": "EuroSports",  "version": "0.1.0",  "description": "EuroSports",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2015-07-29T05:08:19.255Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }});
+define({  "name": "EuroSports",  "version": "0.1.0",  "description": "EuroSports",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2015-07-30T10:05:31.908Z",    "url": "http://apidocjs.com",    "version": "0.13.1"  }});
